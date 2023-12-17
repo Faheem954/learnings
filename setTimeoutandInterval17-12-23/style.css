@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+.bulb{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+#btn1,#btn3,#btn5{
+    background-color: aquamarine;
+    border: 1px solid rgb(0,0,0,0.4);
+    padding:20px;
+}
+#btn2,#btn4,#btn6{
+    background-color: red;
+    color: gold;
+    border: 1px solid rgb(0,0,0,0.4);
+    padding:20px;
+}
