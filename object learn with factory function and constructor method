@@ -1,0 +1,72 @@
+// const a ={
+//     fname : 'pasha',
+//     lname : 'khan',
+//     Dos : ()=>{
+//         console.log('yaho yaho yahoo')
+//     }
+// }
+
+// // template ways (Factory functions object litersal use)
+// function  wrestler(name,hei,wei,qou){
+//     return{
+//         name:name,
+//         height : hei,
+//         weight:wei,
+//         qoute:()=>{
+//             console.log(qou)
+//         }
+
+//     }
+// }
+
+// let  johnCena = wrestler('John Cena',185,240,'never give upn')
+// let  romanReigns =wrestler('Roman Reigns',193,235,'head of the tablen')
+// let  brokeLesnar =wrestler('broke Lesbnae',194,244,'eat sleep break repeat')
+// console.log(johnCena,romanReigns,brokeLesnar)
+
+//Constructor method nameist Letter Captal
+// function Star(height,weight,qoute){
+//     this.height = height;
+//     this.weight = weight;
+//     this.qoute = ()=>{
+//     console.log(qoute)
+//     }
+//     }
+    
+//     //new constructor create let name = new Star(height,weight,qoute)
+//     let john = new Star(10,12,'yah')
+//     console.log(john)
+//     console.log(john.constructor)
+
+//object literals
+// function  Aaa(a,b){
+//     this.a= a;
+//     this.b=b
+// }
+
+// let a1 = new Aaa(1,2)
+// let a2 = {...a1};
+// console.log(a1)
+// console.log(a2)
+// a2.c= 212
+// console.log(a1)
+// console.log(a2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
